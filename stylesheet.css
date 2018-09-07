@@ -7,6 +7,7 @@ float:none;
 background-size: contain;
 background-position:center;
 background-clip:padding-box;
+background-size: contain;
 float: inherit;
 border-bottom: 60px;
 border-radius:15px 50px 30px 5px;
