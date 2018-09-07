@@ -1,0 +1,57 @@
+body {
+background-color: salmon;
+height: 300px;
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUpBKCWPVyJeKJh072jyfiFGVcbr64H0poQGelLwMNtzF-N3V');
+background-repeat: no-repeat;
+float:none;
+background-size: contain;
+background-position:center;
+background-clip:padding-box;
+border-bottom: 60px;
+border-radius:15px 50px 30px 5px;
+}
+h1{
+  text-align:center;
+  color: blueviolet;
+  font-family:serif;
+
+}
+p {
+  text-align:right;
+  border-width: thick;
+  border-right-style: ridge;
+  font-style: oblique;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 480px) and (max-width: 780px) {
+    body {
+        background-color: salmon;
+        color: rosybrown;
+    }
+}
+@media screen and (min-width: 780px) {
+  body {
+    background-color: ocean;
+  }
+  .column {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
+}
