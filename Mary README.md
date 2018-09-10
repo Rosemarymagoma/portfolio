@@ -8,7 +8,7 @@
 ### Project set up and instructions
 ##### For you to access my application use the following ways;
 
-##### https://github.com/Rosemarymagoma/ROSEMARY-MAGOMA-PORTIFOLIO
+#### https://github.com/Rosemarymagoma/ROSEMARY-MAGOMA-PORTIFOLIO
 #### Git clone this application into your repo and install it.
 
 #### Usage
