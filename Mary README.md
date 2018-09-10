@@ -3,7 +3,7 @@
 ### Author
 #### Rosemary Magoma
 ### Description
-##### The project is all about a brief history of my life.It gives a potential imployer more about my education background ,my interests and hobbies.It also describes how I found myself in the field of programming.
+##### The project is all about a brief history of my life.It gives a potential employer more about my education background ,my interests and hobbies.It also describes how I found myself in the field of programming.This is to reduce more fears and worries from a potential employer's head.
 
 ### Project set up and instructions
 ##### For you to access my application use the following ways;
