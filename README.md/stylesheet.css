@@ -11,13 +11,13 @@ border-bottom: 60px;
 border-radius:15px 50px 30px 5px;
 }
 h1{
-  text-align:center;
+  text-align:left;
   color: blueviolet;
   font-family:serif;
 
 }
 p {
-  text-align:right;
+  text-align:left;
   border-width: thick;
   border-right-style: ridge;
   font-style: oblique;
